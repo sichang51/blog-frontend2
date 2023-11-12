@@ -12,6 +12,8 @@ export function PostsIndex(props) {
           <button className="btn btn-primary" onClick={() => props.onShowPost(post)}>
             More Info
           </button>
+          <br></br>
+          <br></br>
         </div>
       ))}
     </div>
